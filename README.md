@@ -25,4 +25,4 @@ print_r($bot->getChatInfo("g0DoGt100c0c6b6f9683ac48550ce09c"));
 
 ## نحوه دریافت Private key و  Auth  - 
 
-https://github.com/MohammadrezaFirouzi/RubikaApiPHP/raw/main/video/rubika.mp4
+https://s6.uupload.ir/filelink/gG8CG3pxPwxQ_4393623f87/rubika_a0na.mp4
