@@ -28,5 +28,5 @@ print_r($bot->getChatInfo("g0DoGt100c0c6b6f9683ac48550ce09c"));
 [Download](https://github.com/MohammadrezaFirouzi/RubikaApiPHP/raw/main/video/rubika.mp4)
 
 ### تشکر از 🥰
-- [ABOLFAZL]((https://github.com/Albu-org)
+- [ABOLFAZL](https://github.com/Albu-org)
 
