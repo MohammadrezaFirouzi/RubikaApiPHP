@@ -25,8 +25,4 @@ print_r($bot->getChatInfo("g0DoGt100c0c6b6f9683ac48550ce09c"));
 
 ## نحوه دریافت Private key و  Auth  - 
 
-<video width="320" height="240" controls>
-  <source src="video/rubika.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[Download](https://github.com/MohammadrezaFirouzi/RubikaApiPHP/raw/main/video/rubika.mp4)
