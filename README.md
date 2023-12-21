@@ -4,7 +4,7 @@
 
 #### نحوه استفاده 🎊 :
 ```php
- <?php 
+<?php 
 
 require_once('./rubika/rubika.php');
 
