@@ -1,5 +1,5 @@
 # RubikaApiPHP
-Rubika API For PHP Language 😅
+کتابخانه روبیکا PHP 😅
 
 
 #### نحوه استفاده 🎊 :
