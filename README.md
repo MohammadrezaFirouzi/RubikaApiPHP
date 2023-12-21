@@ -20,4 +20,4 @@ print_r($bot->getChatInfo("g0DoGt100c0c6b6f9683ac48550ce09c"));
 
 ## Language</br>
 
-<p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=php&logoColor=blue"/> 
+<p align="center"><img src="https://img.shields.io/badge/php-FFDD00?style=for-the-badge&logo=php&logoColor=blue"/> 
