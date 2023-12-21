@@ -21,3 +21,9 @@ print_r($bot->getChatInfo("g0DoGt100c0c6b6f9683ac48550ce09c"));
 ## زبان توسعه 
 
 <p align="center"><img src="https://img.shields.io/badge/php-FFDD00?style=for-the-badge&logo=php&logoColor=blue"/> 
+
+<br/>
+<br/>
+<br/>
+## نحوه دریافت Private key و  Auth  - 
+- https://web.rubika.ir
